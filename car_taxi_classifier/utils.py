@@ -1,3 +1,4 @@
+
 def print_result(predicted_class, is_car, is_taxi):
     print("Predicted class index:", predicted_class)
     if is_car:
