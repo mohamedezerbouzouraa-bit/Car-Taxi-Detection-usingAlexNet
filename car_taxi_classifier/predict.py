@@ -1,6 +1,5 @@
 CAR_CLASSES = [436, 511, 609, 656, 661]
 TAXI_CLASS = 468
-
 def predict(input_tensor, model):
     import torch
     with torch.no_grad():
